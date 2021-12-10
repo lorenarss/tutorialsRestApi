@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projetos.iml" filepath="$PROJECT_DIR$/.idea/Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutorialRestApi/TutorialRestApi.iml" filepath="$PROJECT_DIR$/TutorialRestApi/TutorialRestApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TutorialsRestApi/TutorialsRestApi.iml" filepath="$PROJECT_DIR$/TutorialsRestApi/TutorialsRestApi.iml" />
+    </modules>
+  </component>
+</project>
